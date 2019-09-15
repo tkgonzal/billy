@@ -1,0 +1,57 @@
+Billy: A Backlog Manager
+Billy is a backlog manager, an application that allows its user to keep track of various types of media they want to
+consume, their progress in consuming said media, and what order they wish to tackle entries on their backlog.
+
+Parts
+•Main List
+-list of different media
+•Media List
+-Comprised of a “Completed List” and “In Progress” List
+•Media Sublists
+-Contain entries
+-Entries start out in IP, when marked are moved to completed
+
+Schematics
+•Parent List Type
+-List of Whatever They Have
+-Children Lists
+-Parent List
+-Underflow/Overflow Errors
+•Main List
+-List of Different Media
+-Add Media
+-Delete Media
+-Media Amount Limit
+•Media List Entry
+-Hardcoded has two entry items: completed & ip
+•IP List
+-List of Entries
+-Entry Amount Limit
+•Completed
+-List of Entries
+-Each Entry Has an Additional Member: Date Completed
+-Deletes After Reaches Limit
+-By default deletes by earliest completed
+•Media Type Entry
+-Name
+-Genre
+-Price
+-Completion
+-Year of Release
+-Date Added to List
+-Priority
+-Progress
+-Notes
+-Note Length Limit
+-Is able to sort based on type given
+
+
+Desired Functionality
+-Editing Lists
+    -Adding (By binary_insertion), Editing, and Removing items
+-Adding Lists
+-Deleting Lists
+-Sorting Lists
+
+Additional Functionality (When there's time)
+-Filtering Items
