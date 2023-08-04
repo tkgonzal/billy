@@ -3,7 +3,7 @@ current_backlog.py
 -Defines a Current_Backlog class which is a type of Media_Sublist, a container of Entry objects, designed for a backlog
  in which each Entry object represents a piece of media the user has yet to finish consuming
 
-Traven 'tkwtph' Gonzales
+Traven 'tkgonzal' Gonzales
 '''
 
 

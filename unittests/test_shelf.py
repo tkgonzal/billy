@@ -2,7 +2,7 @@
 test_shelf.py
 -Tests the functionality of the Shelf class
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 '''
 
 

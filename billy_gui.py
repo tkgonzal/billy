@@ -14,7 +14,7 @@
 -The EmptyShelfNameException is defined to be raised whenever the user attempts to provide an empty string as a Shelf
  name, which the program does not allow
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 '''
 
 

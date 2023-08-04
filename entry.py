@@ -3,7 +3,7 @@ entry.py
 -Defines items to be added to a backlog list. An Entry object represents any sort of media that a user wishes/wished to
  consume i.e. books, movies, shows, etc.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 '''
 
 

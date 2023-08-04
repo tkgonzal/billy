@@ -12,7 +12,7 @@ billy.py
     -The Entry information of each Media_Sublist's entry items is separated by the special set of characters "=+/"
     -Each Entry string of information has its parameters separated by the special set of characters "/*/"
 
-Traven "tkwtph" Gonzales 2019
+Traven "tkgonzal" Gonzales 2019
 '''
 
 
