@@ -2,7 +2,7 @@
 test_media_list.py
 -Unittests for the Media_List class.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 '''
 
 

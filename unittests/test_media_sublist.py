@@ -3,7 +3,7 @@ test_media_sublist.py
 -Tests the Media_Sublist's method's functionality. This is done by way testing the Current_Backlog class, as the
  Media_Sublist is abstract since it has no true default key.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 '''
 
 

@@ -6,7 +6,7 @@ media_sublist.py
 -Also Defines the MSUndeflow and MSOverflow Exceptions (MS refering to Media_Sublist). Though their names are self
  explanatory, their docstrings go more in depth into when they are to be raised
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 '''
 
 

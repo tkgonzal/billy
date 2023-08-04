@@ -4,7 +4,7 @@ completed_list.py
  previously on the users' backlog. A Completed_List is a child of Media_Sublist that is meant to hold a small amount of
  Entries to show the user what they have most recently completed.
 
-Traven 'tkwtph' Gonzales
+Traven 'tkgonzal' Gonzales
 '''
 
 

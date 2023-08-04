@@ -6,7 +6,7 @@ media_list.py
  and is used to facilitate data interactions between the two, namely for marking Entry objects in each sublist as
  complete/incomplete.
 
-Traven 'tkwtph' Gonzales
+Traven 'tkgonzal' Gonzales
 '''
 
 

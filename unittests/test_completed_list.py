@@ -4,7 +4,7 @@ test_completed_list.py
  class and the Current_Backlog class. Separated from the test_media_sublist unittests due to its setting of time of its
  items.
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 '''
 
 

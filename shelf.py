@@ -4,7 +4,7 @@ shelf.py
 -Defines the ShelfUnderflowException and ShelfOverflowException classes to be called when atempting to add a Media_List
  to an at capacity shelf and trying to remove from an empty Shelf
 
-Traven 'tkwtph' Gonzales 2019
+Traven 'tkgonzal' Gonzales 2019
 '''
 
 
